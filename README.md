@@ -1,9 +1,3 @@
-# Hangman
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
-
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
-
-
 # Hangman Game
 
 ## Table of Contents
@@ -21,6 +15,7 @@ The Hangman Game is a classic word-guessing game where the computer selects a ra
 - Using the `random` module
 - Conditional statements and loops
 - Validating user input
+- Refactoring code for readability and maintainability
 
 ## Installation
 To get started with the Hangman game, follow these steps:
@@ -38,4 +33,4 @@ To get started with the Hangman game, follow these steps:
 ## Usage
 To run the Hangman game, execute the following command:
 ```bash
-python milestone_2.py
+python milestone_5.py
